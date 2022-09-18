@@ -17,18 +17,23 @@ let questions = [
     "c"
   ),
   new Question(
-    "2-Which javascripts application package?",
-    { a: "Node.js", b: "Typescript", c: "Npm", d: "Javascript" },
-    "a"
+    "2-Which javascript doesn't has framework?",
+    { a: "Angular", b: "reactJS", c: "Vue", d: "reactstrap" },
+    "d"
   ),
   new Question(
-    "3-Which javascripts application package?",
+    "3-Which file end .ts?",
     { a: "Node.js", b: "Typescript", c: "Npm", d: "Javascript" },
     "b"
   ),
   new Question(
-    "4-Which javascripts framework?",
-    { a: "Node.tx", b: "reactJS", c: "scrum", d: "codeigniter" },
+    "4-Which javascript's framework?",
+    { a: ".Net", b: "reactJS", c: "Agile", d: "codeigniter" },
+    "b"
+  ),
+  new Question(
+    "5-Which does React has library ?",
+    { a: "T-Sql", b: "reactstrap", c: "Pl-Sql", d: "Sql lite" },
     "b"
   ),
 ];
